@@ -1,0 +1,15 @@
+Terminal Commands:
+cd = change directory
+ls = list files/folders
+
+
+Git Commands:
+git init
+git config --global user.name "Your Name"
+git config --global user.email youremail@domain.com
+
+git add *
+git commit -m "Updated source"
+git remote add origin URL.git
+git remote -v
+git push --set-u origin master
