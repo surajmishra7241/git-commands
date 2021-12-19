@@ -11,5 +11,6 @@ git config --global user.email youremail@domain.com
 git add *
 git commit -m "Updated source"
 git remote add origin URL.git
+//git remote set-url origin git@github.com:ppreyer/first_app.git
 git remote -v
 git push --set-u origin master
